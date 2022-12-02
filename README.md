@@ -1,7 +1,15 @@
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 - 🙌 Hi, I’m Tami
 - 💘 I’m interested in beautiful computer languages
 - 🌱 I’m currently learning Typescript!
 - 📫 How to reach me - tamiortami@gmail.com
+<a href="https://www.linkedin.com/in/tamiortami/?locale=en_US">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
