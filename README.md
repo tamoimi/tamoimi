@@ -14,6 +14,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,materialui,nextjs,git,styledcomponents,ts,vercel&theme=light" />
+    <img src = "https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+    <img src = "https://img.shields.io/badge/reactQuery-FF4154.svg?&style=for-the-badge&logo=reactQuery&logoColor=black" />
 </div>
 
 ### :fire: My Stats :
