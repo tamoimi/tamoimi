@@ -26,7 +26,7 @@
 <br/>
 
 <div>
-  <img src="https://giphy.com/embed/3tpinSPvGf8MU" width="600" height="300"/>
-
- <iframe src="https://giphy.com/embed/3tpinSPvGf8MU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/community-high-five-excited-3tpinSPvGf8MU">via GIPHY</a></p>
+  <img src="[https://giphy.com/embed/3tpinSPvGf8MU](https://giphy.com/embed/fIVwYg5XgFfG0)" width="600" height="300"/>
 </div>
+
+<iframe src="https://giphy.com/embed/fIVwYg5XgFfG0" width="480" height="224" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/community-friendship-high-five-fIVwYg5XgFfG0">via GIPHY</a></p>
