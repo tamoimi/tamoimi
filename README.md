@@ -1,6 +1,6 @@
 ### Hello! :
 - Hi, I’m Tami 🦦 
-- I’m interested in beautiful computer languages and design
+- I’m interested in beautiful computer languages
 - I’m currently learning Nextjs!
 
 ### Things I used :
@@ -23,10 +23,4 @@
 ### My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamoimi&show_icons=true&theme=vue)
 
-<br/>
 
-<div>
-  <img src="[https://giphy.com/embed/3tpinSPvGf8MU](https://giphy.com/embed/fIVwYg5XgFfG0)" width="600" height="300"/>
-</div>
-
-<iframe src="https://giphy.com/embed/fIVwYg5XgFfG0" width="480" height="224" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/community-friendship-high-five-fIVwYg5XgFfG0">via GIPHY</a></p>
