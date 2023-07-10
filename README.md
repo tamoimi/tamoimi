@@ -1,13 +1,9 @@
 ### Hello! :
-- 🦦 Hi, I’m Tami
-- I’m interested in beautiful computer languages
+- Hi, I’m Tami 🦦 
+- I’m interested in beautiful computer languages and design
 - I’m currently learning Nextjs!
-- 📫 How to reach me - tamiortami@gmail.com
- <a href="https://www.linkedin.com/in/tamiortami/?locale=en_US">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
 
-### Things I use :
+### Things I used :
 <div>
     <img src = "https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
     <img src = "https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />
@@ -30,5 +26,7 @@
 <br/>
 
 <div>
-  <img src="https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/embed/3tpinSPvGf8MU" width="600" height="300"/>
+
+ <iframe src="https://giphy.com/embed/3tpinSPvGf8MU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/community-high-five-excited-3tpinSPvGf8MU">via GIPHY</a></p>
 </div>
