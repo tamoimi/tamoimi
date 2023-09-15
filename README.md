@@ -1,4 +1,10 @@
-### Hello! :
+#### Tami Kim 🦦
+
+FE Developer
+
+###### 옵타움 플랫폼 @Optatum Platform FE developer (2022.09 ~ now)
+
+
 - Hi, I’m Tami 🦦 
 - I’m interested in beautiful computer languages
 - I’m currently learning Nextjs!
@@ -20,7 +26,5 @@
     <img src = "https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamoimi&show_icons=true&theme=vue)
 
 
