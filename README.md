@@ -1,15 +1,13 @@
 #### Tami Kim 🦦
 
-FE Developer
+FE Developer <br/>
+I’m interested in beautiful computer languages <br/>
+I’m currently learning ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ###### 옵타움 플랫폼 @Optatum Platform FE developer (2022.09 ~ now)
 
 
-- Hi, I’m Tami 🦦 
-- I’m interested in beautiful computer languages
-- I’m currently learning Nextjs!
-
-### Things I used :
+#### Things I use :
 <div>
     <img src = "https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
     <img src = "https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />
