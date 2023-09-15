@@ -2,10 +2,9 @@
 
 FE Developer <br/>
 I’m interested in beautiful computer languages <br/>
-I’m currently learning ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+I’m currently learning Next.js
 
 ###### 옵타움 플랫폼 @Optatum Platform FE developer (2022.09 ~ now)
-
 
 #### Things I use :
 <div>
