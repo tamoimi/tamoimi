@@ -4,7 +4,7 @@ FE Developer <br/>
 I’m interested in beautiful computer languages <br/>
 I’m currently learning RN
 
-###### 옵타움 플랫폼 @Optatum Platform FE developer (2022.09 ~ now)
+###### 옵타움 플랫폼 @Optatum Platform FE developer (2022.09 ~ 2025.01)
 
 #### Things I use :
 <div>
